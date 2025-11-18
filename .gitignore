@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+env/
+venv/
+.venv/
+*.env
+*.conda
+*.yaml
+
+# ML / DL Large Files
+*.h5
+*.pth
+*.pt
+*.pth.tar
+*.ckpt
+*.npz
+*.npy
+
+# Logs
+logs/
+*.log
+
+# Data
+data/
+datasets/
+
+# VS Code
+.vscode/
